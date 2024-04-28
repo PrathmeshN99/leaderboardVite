@@ -16,7 +16,7 @@ const LoginSignup = () => {
     </div>} */}
       <div>
         <a
-          href="https://slack.com/openid/connect/authorize?scope=openid&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fvite-react-app-rho.vercel.app%2Fdashboard&amp;client_id=4617468729715.6649877272689"
+          href="https://slack.com/openid/connect/authorize?scope=openid&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fleaderboard-vite-rb77q44ru-prathmeshn99s-projects.vercel.app%2Fdashboard&amp;client_id=4617468729715.6649877272689"
           style={{
             alignItems: "center",
             color: "#000",
